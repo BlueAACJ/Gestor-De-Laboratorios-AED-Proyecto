@@ -1,0 +1,36 @@
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# NetBeans project files
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle
+build/
+
+# IntelliJ IDEA
+out/
+
+# VS Code
+.vscode/
